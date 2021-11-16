@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\gotol\Documents\rust\web\target\wasm32-unknown-unknown\debug\build\typenum-14111b33427c20dc\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\gotol\Documents\rust\web\target\wasm32-unknown-unknown\debug\build\typenum-14111b33427c20dc\out\op.rs
